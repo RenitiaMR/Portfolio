@@ -1,29 +1,85 @@
-# Renitia Murti Rahayu
+# 📊 Data Analyst Portfolio
 
-## 🧠 About Me
-I am a data-focused engineer with a background in Electrical Engineering from Institut Teknologi Bandung (ITB) and graduate-level studies in Computer Engineering at Pusan National University.
+## 👋 About Me
 
-My current focus is on:
+Hi, I’m an aspiring **Data Analyst** focused on turning raw data into meaningful business insights.
 
-Data Annotation and Dataset Quality Assurance
-AI and Machine Learning data preparation
-Python-based data analysis (ongoing learning)
-I combine an engineering mindset with attention to detail to deliver accurate and structured data for AI systems
+I specialize in:
 
-## 🎯 Skills
-Data Annotation & Labeling
-Image Annotation (Computer Vision datasets)
-Dataset Cleaning & Validation
-Search Relevance Evaluation (UHRS-style)
-Basic Data Analysis (Python, Excel)
+* Data Cleaning & Preparation
+* Exploratory Data Analysis (EDA)
+* Customer & Sales Analysis
+* Dashboard Creation (Power BI)
+* Data Storytelling
 
-## 📬 Contact
-Available for freelance work in:
+I enjoy working on real-world datasets and translating numbers into clear, actionable insights that support business decisions.
 
-Data Annotation
+---
 
-Dataset Cleaning
+## 🧠 Skills
 
-AI Training Data Preparation
+* Python (Pandas, Matplotlib)
+* SQL (basic–intermediate, ongoing learning)
+* Microsoft Excel
+* Power BI
+* Data Cleaning & Transformation
+* Exploratory Data Analysis (EDA)
+* Business Insight Generation
+* Data Visualization
 
-Feel free to reach me out.
+---
+
+## 📁 Projects
+
+### 1. Ames Housing Data Analysis (Power BI)
+
+* Built an interactive dashboard to analyze housing price drivers
+* Identified key factors affecting property prices such as location, size, and quality
+* Created KPI overview and visual storytelling for real estate insights
+
+**Tools:** Power BI, Excel
+
+---
+
+### 2. Online Retail II – Customer & Sales Analysis
+
+* Performed data cleaning and preprocessing
+* Conducted EDA on product sales, revenue trends, and country distribution
+* Built customer segmentation using RFM (Recency, Frequency, Monetary)
+* Identified key insights on customer behavior and revenue concentration
+
+**Tools:** Python (Pandas), Power BI
+
+---
+
+### 3. Titanic Dataset Analysis
+
+* Cleaned and explored survival data
+* Analyzed relationships between passenger class, age, gender, and survival rate
+* Practiced foundational EDA and data visualization
+
+**Tools:** Python (Pandas, Matplotlib)
+
+---
+
+## 📊 What I’m Currently Working On
+
+* Advanced Customer Analysis (RFM segmentation deep dive)
+* Power BI dashboard development for business reporting
+* SQL practice for data querying and analysis
+* Building more end-to-end analytics projects
+
+---
+
+## 🎯 Goals
+
+My goal is to grow into a **Junior Data Analyst / Business Intelligence Analyst**, with strong capabilities in:
+
+* Data-driven decision making
+* Business reporting & dashboards
+* Customer and sales analytics
+* Freelance analytics work (Upwork & remote opportunities)
+
+---
+
+⭐ This portfolio is continuously updated as I learn and build new projects.
