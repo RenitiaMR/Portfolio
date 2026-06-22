@@ -48,9 +48,12 @@ I enjoy working on real-world datasets and translating numbers into clear, actio
 [Online Sales Analysis](https://nbviewer.org/github/RenitiaMR/Portfolio/blob/main/online_sales_II.ipynb)
 
 * Performed data cleaning and preprocessing
-* Conducted EDA on product sales, revenue trends, and country distribution
-* Built customer segmentation using RFM (Recency, Frequency, Monetary)
-* Identified key insights on customer behavior and revenue concentration
+* Conducted exploratory data analysis (EDA) on product sales, revenue trends, and country distribution
+* Built customer segmentation using RFM (Recency, Frequency, Monetary) analysis
+* Performed cohort analysis to evaluate customer retention over time
+* Conducted simple churn analysis to identify inactive customers based on purchase behavior
+* Identified key insights on customer behavior, retention patterns, and revenue concentration
+
 
 **Tools:** Python (Pandas), Power BI
 
