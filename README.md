@@ -33,7 +33,9 @@ I enjoy working on real-world datasets and translating numbers into clear, actio
 
 ### 1. Ames Housing Data Analysis (Power BI)
 
-[Housing Price Analysis](https://nbviewer.org/url/https://raw.githubusercontent.com/RenitiaMR/Portfolio/main/notebook/housing_price.ipynb)
+- [Titanic Survival Analysis](https://github.com/RenitiaMR/Portfolio/blob/main/notebook/titanic_survival.ipynb)
+- [Online Sales Analysis](https://github.com/RenitiaMR/Portfolio/blob/main/notebook/online_sales_II.ipynb)
+- [Housing Price Analysis](https://github.com/RenitiaMR/Portfolio/blob/main/notebook/housing_price.ipynb)
 
 * Built an interactive dashboard to analyze housing price drivers
 * Identified key factors affecting property prices such as location, size, and quality
