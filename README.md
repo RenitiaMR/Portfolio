@@ -33,8 +33,6 @@ I enjoy working on real-world datasets and translating numbers into clear, actio
 
 ### 1. Ames Housing Data Analysis (Power BI)
 
-- [Titanic Survival Analysis](https://github.com/RenitiaMR/Portfolio/blob/main/notebook/titanic_survival.ipynb)
-- [Online Sales Analysis](https://github.com/RenitiaMR/Portfolio/blob/main/notebook/online_sales_II.ipynb)
 - [Housing Price Analysis](https://github.com/RenitiaMR/Portfolio/blob/main/notebook/housing_price.ipynb)
 
 * Built an interactive dashboard to analyze housing price drivers
@@ -47,7 +45,7 @@ I enjoy working on real-world datasets and translating numbers into clear, actio
 
 ### 2. Online Retail II – Customer & Sales Analysis
 
-[Online Sales Analysis](https://nbviewer.org/github/RenitiaMR/Portfolio/blob/main/notebook/online_sales_II.ipynb)
+- [Online Sales Analysis](https://github.com/RenitiaMR/Portfolio/blob/main/notebook/online_sales_II.ipynb)
 
 * Performed data cleaning and preprocessing
 * Conducted exploratory data analysis (EDA) on product sales, revenue trends, and country distribution
@@ -63,7 +61,7 @@ I enjoy working on real-world datasets and translating numbers into clear, actio
 
 ### 3. Titanic Dataset Analysis
 
-[Titanic Survival Analysis](https://nbviewer.org/github/RenitiaMR/Portfolio/blob/main/notebook/titanic_survival.ipynb)
+- [Titanic Survival Analysis](https://github.com/RenitiaMR/Portfolio/blob/main/notebook/titanic_survival.ipynb)
 
 * Cleaned and explored survival data
 * Analyzed relationships between passenger class, age, gender, and survival rate
