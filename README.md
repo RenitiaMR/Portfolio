@@ -54,6 +54,8 @@ I enjoy working on real-world datasets and translating numbers into clear, actio
 
 ### 3. Titanic Dataset Analysis
 
+[Titanic_Survival_Analysis]([https://yourportfolio.com](https://github.com/RenitiaMR/Portfolio/blob/main/titanic_survival.ipynb))
+
 * Cleaned and explored survival data
 * Analyzed relationships between passenger class, age, gender, and survival rate
 * Practiced foundational EDA and data visualization
