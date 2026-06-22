@@ -33,6 +33,8 @@ I enjoy working on real-world datasets and translating numbers into clear, actio
 
 ### 1. Ames Housing Data Analysis (Power BI)
 
+[Housing Price Analysis](https://nbviewer.org/github/RenitiaMR/Portfolio/blob/main/housing_price.ipynb)
+
 * Built an interactive dashboard to analyze housing price drivers
 * Identified key factors affecting property prices such as location, size, and quality
 * Created KPI overview and visual storytelling for real estate insights
@@ -42,6 +44,8 @@ I enjoy working on real-world datasets and translating numbers into clear, actio
 ---
 
 ### 2. Online Retail II – Customer & Sales Analysis
+
+[Online Sales Analysis](https://nbviewer.org/github/RenitiaMR/Portfolio/blob/main/online_sales_II.ipynb)
 
 * Performed data cleaning and preprocessing
 * Conducted EDA on product sales, revenue trends, and country distribution
